@@ -18,7 +18,7 @@
 - 🌱 Master in  software enginnering, big data and cloud computing<br>
 - 📖 Interested in : Software enginnering | CyberSecurity| cloud computing | Web 3.0 🤣 <br>
 - 👯 I’m looking to collaborate in innovative project <br>
-- 📫 How to reach me : Email : hamzahouri@gmail.com / Phone : +212 659973945 <br>
+- 📫 How to reach me : Email : hamzahouri@gmail.com / Phone : +212 659973945 / https://www.linkedin.com/in/hamza-houri/ <br>
 
 
 ### 💻 Top Programming Languages
