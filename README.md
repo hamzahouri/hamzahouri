@@ -1,4 +1,4 @@
-# Welcome, My name is HAMZA HOURI 👋 
+# Welcome to my Github account 👋 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzahouri&theme=blue-green&show_icons=true)
 ## Full stack java developer (Spring/ Angular), Cybersecurity enthusiast !!
@@ -17,7 +17,7 @@
         
 - 🌱 Master in  software enginnering, big data and cloud computing<br>
 - 📖 Interested in : Software enginnering | CyberSecurity| cloud computing | Web 3.0 🤣 <br>
-- 👯 I’m looking to collaborate in innovative project <br>
+- 👯 Talking : #Java #Angular #Cybersecurity #web_3.0 #Crypto <br>
 - 📫 How to reach me : Email : hamzahouri@gmail.com / Phone : +212 659973945 / https://www.linkedin.com/in/hamza-houri/ <br>
 
 
